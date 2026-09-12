@@ -2,6 +2,8 @@
 
 國立清華大學 NTHU Live AI 數字人部署與使用教學。
 
+![NTHU Live AI 系統架構與使用流程](docs/system-architecture.png)
+
 ## 快速開始
 
 - [完整安裝與部署教學](docs/index.md)
